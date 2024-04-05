@@ -1,0 +1,52 @@
+[
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 28,
+    "LibraryId": "156dbddd-d601-4035-af41-fce9f7a0006d",
+    "LibraryLogicalName": "cat_powercatcomponentlibrary_0be3a",
+    "LibraryVersion": "2024-03-19T08:47:55Z",
+    "OriginalComponentDefinitionTemplateId": "44e7951b1fad4ad98126f8c108dd1e9f",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2022-10-11T06:57:43.721+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 3,
+    "LibraryId": "156dbddd-d601-4035-af41-fce9f7a0006d",
+    "LibraryLogicalName": "cat_powercatcomponentlibrary_0be3a",
+    "LibraryVersion": "2024-03-19T08:47:55Z",
+    "OriginalComponentDefinitionTemplateId": "2e88179d732a402184a767c94eab038b",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2022-10-11T06:57:43.721+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 1,
+    "LibraryId": "156dbddd-d601-4035-af41-fce9f7a0006d",
+    "LibraryLogicalName": "cat_powercatcomponentlibrary_0be3a",
+    "LibraryVersion": "2024-03-19T08:47:55Z",
+    "OriginalComponentDefinitionTemplateId": "6da4b2f929d240969e49e05e10e720ce",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2022-10-11T06:57:43.721+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 2,
+    "LibraryId": "156dbddd-d601-4035-af41-fce9f7a0006d",
+    "LibraryLogicalName": "cat_powercatcomponentlibrary_0be3a",
+    "LibraryVersion": "2024-03-19T08:47:55Z",
+    "OriginalComponentDefinitionTemplateId": "952d39d80fc84420b772a5058b19d909",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2022-10-11T06:57:43.721+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 1,
+    "LibraryId": "81e5e6a9-c44c-4745-94af-8b1fdb4ee232",
+    "LibraryLogicalName": "cat_powercatcomponentlibrary_0be3a",
+    "LibraryVersion": "2022-10-11T06:57:29Z",
+    "OriginalComponentDefinitionTemplateId": "599bd02396dc426681a20784c48547f9",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2022-10-11T06:57:43.721+00:00"
+  }
+]

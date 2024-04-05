@@ -713,7 +713,7 @@
       "MetaDataIDKey": "",
       "Name": "Container6",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 2,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1920,7 +1920,7 @@
       "MetaDataIDKey": "",
       "Name": "lblSelected_27",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3164,7 +3164,7 @@
       "MetaDataIDKey": "",
       "Name": "PickerTagsSimple",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 1,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

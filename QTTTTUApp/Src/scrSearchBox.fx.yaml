@@ -180,6 +180,8 @@ scrSearchBox As screen:
                             Height: =49
                             Items: |-
                                 =Table({ItemKey:"app",ItemDisplayName:"App",ItemIconName:"PowerApps2Logo"},{ItemKey:"code",ItemDisplayName:"Code",ItemIconName:"Code"})
+                            LayoutMinHeight: =200
+                            LayoutMinWidth: =200
                             OnSelect: =Set(varAutoHeight,If(Self.Selected.ItemKey="app",200,htmlCodeSnippet_1.Y+htmlCodeSnippet_1.Height))
                             RenderSize: ='PowerCAT.Pivot.RenderSize'.Large
                             RenderType: ='PowerCAT.Pivot.RenderType'.PivotLinks
@@ -253,6 +255,8 @@ scrSearchBox As screen:
                                 DisplayMode: =If( chkDisabledState.Checked, DisplayMode.Disabled, DisplayMode.Edit)
                                 Height: =50
                                 IconName: =ddIconName.Selected.Value
+                                LayoutMinHeight: =200
+                                LayoutMinWidth: =200
                                 PlaceHolderText: =txtPlateholderTextValue.Value
                                 Theme: =varTheme.themeJSON
                                 Underlined: =chkUnderlined.Checked
@@ -284,6 +288,8 @@ scrSearchBox As screen:
                                 DisplayMode: =DisplayMode.Edit
                                 Height: =200
                                 Items: =Search(colColors, SearchBox1.SearchText, "color", "value")
+                                LayoutMinHeight: =200
+                                LayoutMinWidth: =200
                                 SelectionType: ='PowerCAT.FluentDetailsList.SelectionType'.None
                                 Width: =200
                                 X: =0

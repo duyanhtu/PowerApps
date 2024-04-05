@@ -26,11 +26,6 @@ scrAutoWidthLabel As screen:
             Width: =228
             ZIndex: =1
 
-        comDescription_4 As TextPanel:
-            LayoutMinHeight: =640
-            Text: ="Labels give a name or title to a control or group of controls. The Auto Width Label acts similar to the standard label, but will expand dynamically in width to accommodate the text. This functionality is currently not supported in canvas apps & custom pages today."
-            ZIndex: =2
-
         BestPractices_5 As BestPractices:
             Donts: |
                 =Table(

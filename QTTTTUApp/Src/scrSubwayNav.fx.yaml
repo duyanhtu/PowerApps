@@ -116,6 +116,8 @@ scrSubwayNav As screen:
                             Height: =49
                             Items: |-
                                 =Table({ItemKey:"app",ItemDisplayName:"App",ItemIconName:"PowerApps2Logo"},{ItemKey:"code",ItemDisplayName:"Code",ItemIconName:"Code"})
+                            LayoutMinHeight: =200
+                            LayoutMinWidth: =200
                             OnSelect: =Set(varAutoHeight,If(Self.Selected.ItemKey="app",200,htmlCodeSnippet_3.Y+htmlCodeSnippet_3.Height))
                             RenderSize: ='PowerCAT.Pivot.RenderSize'.Large
                             RenderType: ='PowerCAT.Pivot.RenderType'.PivotLinks
@@ -235,6 +237,8 @@ scrSubwayNav As screen:
                                     {ItemKey:"4",ItemLabel:"Step 4",ItemState:"ViewedNotCompleted"},
                                     {ItemKey:"5",ItemLabel:"Step 5",ItemState:"Error"},
                                     {ItemKey:"6",ItemLabel:"Step 6",ItemState:"WizardComplete"})
+                                LayoutMinHeight: =200
+                                LayoutMinWidth: =200
                                 Theme: =varTheme.themeJSON
                                 Width: =400
                                 WizardCompleteorError: =ddState.Selected.Key
@@ -455,6 +459,8 @@ scrSubwayNav As screen:
                             Height: =49
                             Items: |-
                                 =Table({ItemKey:"app",ItemDisplayName:"App",ItemIconName:"PowerApps2Logo"},{ItemKey:"code",ItemDisplayName:"Code",ItemIconName:"Code"})
+                            LayoutMinHeight: =200
+                            LayoutMinWidth: =200
                             OnSelect: =Set(varAutoHeight,If(Self.Selected.ItemKey="app",200,htmlCodeSnippet_4.Y+htmlCodeSnippet_4.Height))
                             RenderSize: ='PowerCAT.Pivot.RenderSize'.Large
                             RenderType: ='PowerCAT.Pivot.RenderType'.PivotLinks
@@ -582,6 +588,8 @@ scrSubwayNav As screen:
                                     {ItemKey:"8",ItemLabel:"Step 3 too have sub-steps",ItemState:"Unsaved"},
                                     {ItemKey:"9",ItemLabel:"Step 4",ItemState:"Error"},
                                     {ItemKey:"10",ItemLabel:"Step 5",ItemState:"WizardComplete"})
+                                LayoutMinHeight: =200
+                                LayoutMinWidth: =200
                                 Theme: =varTheme.themeJSON
                                 Width: =400
                                 WizardCompleteorError: =ddState_1.Selected.Key
